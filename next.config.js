@@ -2,7 +2,7 @@
 const nextConfig = {
   output: "export",
   // Add basePath
-  basePath: "/",
+  basePath: "",
 };
 
 module.exports = nextConfig;
